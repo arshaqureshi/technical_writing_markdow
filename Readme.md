@@ -1,4 +1,4 @@
-Step 1: Turning on the Smartphone
+# Step 1: Turning on the Smartphone
 
 # Locate the power button
 # Press and hold the power button
