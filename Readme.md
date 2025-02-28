@@ -1,6 +1,7 @@
-# Step 1: Turning on the Smartphone
+#Step-by-Step Istructions To Make Instagram Post
+##Step 1: Turning on the Smartphone
 
-# Locate the power button
+## Locate the power button
 # Press and hold the power button
 # Wait for the device logo to appear
 # Wait for the phone to fully start up
